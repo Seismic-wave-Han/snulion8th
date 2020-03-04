@@ -2,6 +2,10 @@
 
 학생 Lion의 입장
 1. `hyesoo5115/snulion8th` Fork
+2. 본인의 노트북의 원하는 위치에서 터미널에 `git clone https://github.com/hyesoo5115/snulion8th.git` 실행하여 snulion8th 폴더 생성
+3. `cd snulion8th`
+4. `git pull`
+5. `git checkout -b Lion origin/Lion` 으로 자기 이름으로 생성된 브랜치 가져오기
 2. 본인의 레포지토리인 `Lion/snulion8th`에 수업 내용 및 과제 commit & push
 3. 과제 완료 시 `hyesoo5115/snulion8th`의 본인 브랜치로 Pull Request 요청
 4. 과제 미완료 시 `hyesoo5115/snulion8th`의 master 브랜치에 올라온 정답 코드 확인
