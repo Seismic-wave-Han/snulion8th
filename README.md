@@ -1,3 +1,9 @@
+초기 세팅 방법입니다 :)
+1. 본인의 노트북의 원하는 위치에서 터미널에 `git clone https://github.com/hyesoo5115/snulion8th.git` 실행하여 snulion8th 폴더 생성
+2. `cd snulion8th`
+3. `git pull`
+4. `git checkout -b jaeeun origin/jaeeun` 으로 자기 이름으로 생성된 브랜치 가져오기
+
 과제 제출 방법입니다 :)
 
 1. 본인 컴퓨터의 로컬 레포지토리에서 작업
